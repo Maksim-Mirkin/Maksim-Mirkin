@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:maksim.mirkin@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact_Me-red?logo=gmail&logoColor=red&style=for-the-badge" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-yellow?logo=gmail&logoColor=red&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
 </div>
 <div align='center'>
